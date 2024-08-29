@@ -1,2 +1,2 @@
-# CS50SQL_PSET_Solutions
-My solution of CS50SQL problem sets for future reference.
+# CS50's Introduction to Databases with SQL - 2024
+Notes and practice code of CS50SQL for future reference.
